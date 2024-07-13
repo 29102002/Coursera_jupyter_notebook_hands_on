@@ -1,6 +1,3 @@
 # Coursera_jupyter_notebook_hands_on
 
-https://drive.google.com/file/d/1TnDQSUUKfo1WPf6x9rMCRUuchF4okczy/view?usp=drive_link
-
-
-
+![1-notebook png](https://github.com/user-attachments/assets/aca483be-fd97-4d25-a28f-40dd9fea70a0)
